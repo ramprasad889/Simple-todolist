@@ -1,0 +1,15 @@
+/* Write your CSS here */
+.TodoItem {
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.button {
+  padding: 5px 5px;
+  margin: 2px 10px;
+  border-radius: 10px;
+}
